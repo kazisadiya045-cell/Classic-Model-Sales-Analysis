@@ -39,7 +39,7 @@ and business profitability.
 - Business insights for strategic decision-making
 
 ## 📷 Dashboard Preview
-![Dashboard](Clssic_Model_sales_Analysis.png)
+![Dashboard](Classic_Model_Sales_Analysis.png)
 
 ## ▶ How to Use This Project
 
