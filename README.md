@@ -48,9 +48,6 @@ and business profitability.
 3. Apply data modeling and DAX measures
 4. Explore the dashboard using filters and slicers
 
-## 📂 Dataset
-Dataset includes sales, orders, customers, and product details.
-
 ## 🔍 Business Insights
 - Classic Cars are the top-performing product line
 - Sales peaked in 2004 with a slight decline in 2005
